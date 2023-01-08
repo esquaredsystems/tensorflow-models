@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'canine'
+}
+item {
+    id: 2
+    name: 'central incisor'
+}
+item {
+    id: 3
+    name: 'lateral incisor'
+}
+item {
+    id: 4
+    name: 'molar'
+}
+item {
+    id: 5
+    name: 'premolar'
+}
+item {
+    id: 6
+    name: 'implant'
+}
